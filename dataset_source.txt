@@ -1,0 +1,13 @@
+SUMBER DATASET
+
+UCI Machine Learning Repository - Online Retail
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+DOI:
+https://doi.org/10.24432/C5BW33
+
+Dataset file:
+Online_Retail.xlsx
+
+Catatan:
+File asli berukuran besar, sehingga project ini menggunakan mekanisme download otomatis dari sumber UCI di dalam notebook. Ketentuan tugas memperbolehkan file dataset atau link sumber dataset.
